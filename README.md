@@ -1,24 +1,11 @@
-# README
+## Curso TDD com Ruby on Rails, RSpec e Capybara
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- ### Seções do Curso:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  - [x] Seção 1 - Conceitos Iniciais
+  - [ ] Seção 2 - Rspec
+  - [ ] Seção 3 - Factory Girl/Bot e VCR
+  - [ ] Seção 4 - Testando Models e Controllers
+  - [ ] Seção 5 - Testando Views com Capybara
+  - [ ] Seção 6 - Testando APIs
+  - [ ] Seção 7 - Desenvolvendo um CRUD com TDD
