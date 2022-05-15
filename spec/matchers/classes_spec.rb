@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'string_nao_vazia'
 
 describe 'Classes' do
