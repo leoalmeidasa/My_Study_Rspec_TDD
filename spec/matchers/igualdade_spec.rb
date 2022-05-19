@@ -3,7 +3,7 @@
 describe 'Matchers de Igualdade' do
   context 'Testa se é o mesmo objeto' do
     x = 'ruby'
-    y = 'ruby'
+    y = 'rubi'
     it '#equal' do
       expect(x).not_to equal(y)
     end
