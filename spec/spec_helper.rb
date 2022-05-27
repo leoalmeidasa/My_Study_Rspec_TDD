@@ -17,29 +17,29 @@
 # See https://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
   # Hooks
-  config.before(:suite) do
-    puts '>>>>>>> Antes de TODAS as suítes de testes!'
-  end
+  # config.before(:suite) do
+  #   puts '>>>>>>> Antes de TODAS as suítes de testes!'
+  # end
 
-  config.after(:suite) do
-    puts '>>>>>>> Depois de TODAS as suítes de testes!'
-  end
+  # config.after(:suite) do
+  #   puts '>>>>>>> Depois de TODAS as suítes de testes!'
+  # end
 
-  config.before(:context) do
-    puts '>>>>>>> Antes de TODOS os contextos de testes!'
-  end
+  # config.before(:context) do
+  #   puts '>>>>>>> Antes de TODOS os contextos de testes!'
+  # end
 
-  config.after(:all) do
-    puts '>>>>>>> Depois de TODOS os contextos de testes!'
-  end
+  # config.after(:all) do
+  #   puts '>>>>>>> Depois de TODOS os contextos de testes!'
+  # end
 
-  config.before(:each) do
-    puts '>>>>>>> Antes de TODOS os testes!'
-  end
+  # config.before(:each) do
+  #   puts '>>>>>>> Antes de TODOS os testes!'
+  # end
 
-  config.after(:example) do
-    puts '>>>>>>> Depois de TODOS os testes!'
-  end
+  # config.after(:example) do
+  #   puts '>>>>>>> Depois de TODOS os testes!'
+  # end
 
   # rspec-expectations config goes here. You can use an alternate
   # assertion/expectation library such as wrong or the stdlib/minitest
